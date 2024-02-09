@@ -12,9 +12,9 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
-- 🔭 I’m currently working on [Ice&Health](https://play.google.com/store/apps/details?id=com.iceandhealth&hl=pl&gl=US)
 
 - 📫 How to reach me **maciej.macheta.work@gmail.com**
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
