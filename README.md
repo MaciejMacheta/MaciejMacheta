@@ -3,11 +3,6 @@
 <p align="center"> <img src="https://profile-counter.glitch.me/{maciejmacheta}/count.svg" alt="maciejmacheta :: Visitor's Count" /> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/maciejmacheta?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> </p>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i4tex0h2zf947oxqiqe72i2jd&cover_image=true&theme=gotham&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
-  </a>
-</p>
 
 <img src="https://readme-jokes.vercel.app/api?theme=gotham" alt="Jokes Card" />
 
