@@ -13,7 +13,12 @@
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&frameworks=vue,react,dotnet&tools=git,npm,yarn,firebase,wordpress,gradle,prettier&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&frameworks=vue,react,dotnet&tools=git,npm,yarn,firebase,wordpress,gradle,prettier&theme=darkmode&includeNames=true" alt="GitHub WidgetBox">
+  </a>
+</p>
+
 
 
 - 📫 How to reach me **maciej.macheta.work@gmail.com**
