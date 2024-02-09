@@ -13,8 +13,11 @@
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
 
-- 📫 How to reach me **maciej.macheta.work@gmail.com**
+<p align="center">
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&frameworks=vue,react,dotnet&tools=git,npm,yarn,firebase,wordpress,gradle,prettier&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+</p>
+
+- 📫 How to reach me **maciej.macheta.work@gmail.com**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/maciejmacheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maciejmacheta" height="30" width="40" /></a>
