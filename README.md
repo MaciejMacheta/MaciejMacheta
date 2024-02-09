@@ -2,6 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maciejmacheta&label=Profile%20views&color=00ccbe&style=flat-square" alt="maciejmacheta" /> </p>
 
+[![image of my spotify profile playing](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 🔭 I’m currently working on [Ice&Health](https://play.google.com/store/apps/details?id=com.iceandhealth&hl=pl&gl=US)
 
