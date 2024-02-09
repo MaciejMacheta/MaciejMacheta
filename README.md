@@ -14,7 +14,7 @@
 </p>
 
 - 📫 How to reach me **maciej.macheta.work@gmail.com**
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
