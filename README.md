@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maciejmacheta&label=Profile%20views&color=00ccbe&style=flat-square" alt="maciejmacheta" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maciejmacheta&label=Profile%20views&color=00ccbe&style=flat-square" alt="maciejmacheta" /> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> </p>
 
 
 <p align="center">
