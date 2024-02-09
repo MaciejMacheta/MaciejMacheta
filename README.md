@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 - 🔭 I’m currently working on [Ice&Health](https://play.google.com/store/apps/details?id=com.iceandhealth&hl=pl&gl=US)
 
