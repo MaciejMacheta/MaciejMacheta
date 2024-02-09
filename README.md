@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i4tex0h2zf947oxqiqe72i2jd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=i4tex0h2zf947oxqiqe72i2jd&cover_image=true&theme=gotham&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
   </a>
 </p>
 
