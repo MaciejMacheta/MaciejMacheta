@@ -9,6 +9,8 @@
   </a>
 </p>
 
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 - 🔭 I’m currently working on [Ice&Health](https://play.google.com/store/apps/details?id=com.iceandhealth&hl=pl&gl=US)
 
 - 📫 How to reach me **maciej.macheta.work@gmail.com**
