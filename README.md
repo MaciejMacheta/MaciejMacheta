@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **maciej.macheta.work@gmail.com**
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,csharp,mysql,visualbasic&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,dotnet&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/maciejmacheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maciejmacheta" height="30" width="40" /></a>
