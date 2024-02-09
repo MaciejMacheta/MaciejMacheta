@@ -1,6 +1,7 @@
-![Header](./github-header-image.png)
+
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{maciejmacheta}/count.svg" alt="maciejmacheta :: Visitor's Count" /> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/maciejmacheta?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> </p>
+![Header](./github-header-image.png)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
