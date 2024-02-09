@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Maciej</h1>
-![spotify-github-profile](/img/compact.svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maciejmacheta&label=Profile%20views&color=00ccbe&style=flat-square" alt="maciejmacheta" /> </p>
 
