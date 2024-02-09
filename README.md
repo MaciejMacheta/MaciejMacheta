@@ -1,3 +1,4 @@
+![Header](./[Your header image])
 <h1 align="center">Hi 👋, I'm Maciej</h1>
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{maciejmacheta}/count.svg" alt="maciejmacheta :: Visitor's Count" /> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/maciejmacheta?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> </p>
