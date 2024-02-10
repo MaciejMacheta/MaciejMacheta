@@ -16,7 +16,8 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
-<codepen-embed penId="ExMdyvQ"></codepen-embed>
+
+<codepen-embed penId="ExMdyvQ" height="450"></codepen-embed>
 
 <p align="center">
   <a href="https://github.com/Jurredr/github-widgetbox">
