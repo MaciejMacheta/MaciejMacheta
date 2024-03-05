@@ -14,6 +14,7 @@
 </p>
 
 <p align="center">
+  Random generated joke
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
 </p>
 
