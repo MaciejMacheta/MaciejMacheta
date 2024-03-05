@@ -13,8 +13,8 @@
   </a>
 </p>
 
-<p align="center">
-  Random generated joke
+<p align="center" margin-top="10px">
+Random generated joke
 </p>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=gotham&hideBorder" alt="Jokes Card" />
